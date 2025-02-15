@@ -1,4 +1,4 @@
-# MovieRecommendationSystem
+# movieRecommendationSystem
 
 - Built an interactive movie recommendation system using a dataset of over 60,000 movies.
 - Implemented a search engine using TF-IDF Vectorizer to convert movie titles into numerical vectors.
