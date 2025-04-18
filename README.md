@@ -21,8 +21,8 @@ You can download the dataset [here](https://files.grouplens.org/datasets/moviele
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/marwanhegazy-10/movie-recommendations.git
-   cd movie-recommendations
+   git clone https://github.com/marwanhegazy-10/flickFinder.git
+   cd flickFinder
    ```
 
 2. Ensure Jupyter Notebook is installed:
